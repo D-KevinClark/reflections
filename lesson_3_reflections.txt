@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 so you can always stay focus on you current work and make the update when you want to.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 you clone a repository from anther one to you own github account,that is forks,when you can clone one's repository from a local computer to anther one or clone a repository from the github to you own local computer,you can have several working stream like a tree,that is branch,branch happens only in one repository.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+we can compare and meger branches locally,this is important when you work with others.
